@@ -1,0 +1,11 @@
+_csv: &csv
+  type: pandas.CSVDataset
+  save_args:
+    index: False
+
+# Conjunto de entrenamiento:
+datos_entrenamiento:
+  <<: *csv
+  filepath: data/01_raw/dataset.csv
+  load_args:
+    sep: ";"

@@ -1,0 +1,8 @@
+# Importar desde Google Drive el conjunto de entrenamiento
+drive:
+  file_id: "1zX1AZuiokVZpSAvyvxoofPmKxHgqqdKj"
+  output_path: "data/01_raw/dataset.csv"
+
+local_csv:
+  origen: "/Users/marcoshernandezgarcia/Desktop/Data Science ~ Curse /nothiring/data/trains.csv"
+  destino: "data/01_raw/trains.csv"
