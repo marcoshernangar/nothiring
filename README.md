@@ -11,7 +11,7 @@ Este proyecto forma parte de una mentoría realizada en colaboración con la aso
 - Guiar a personas en formación en el uso de herramientas profesionales de ciencia de datos
 - Establecer una estructura robusta de trabajo basada en Kedro
 - Importar un archivo `.csv` local de forma automatizada y documentada
-- Dejar preparado un flujo de trabajo listo para escalar a análisis, modelado o visualización
+- Dejar preparado un flujo de trabajo listo para escalar a análisis, modelado o visualización, y si es posible, creación de agentes
 
 ---
 
